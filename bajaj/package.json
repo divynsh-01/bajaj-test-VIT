@@ -1,12 +1,12 @@
 {
   "name": "bfhl-api",
   "version": "1.0.0",
-  "description": "A REST API to process an array of data.",
+  "description": "A REST API bajaj project",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Krishna Bhambani - 22BCE0761",
+  "author": "Divyansh Sharma - 22BCE0969",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.1",
