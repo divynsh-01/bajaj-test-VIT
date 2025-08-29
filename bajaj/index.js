@@ -56,7 +56,7 @@ const processData = (data) => {
 };
 
 app.get('/', (req, res) => {
-    res.status(200).json({ status: 'API is running successfully.' });
+    res.status(200).json({ status: 'API is working properly.' });
 });
 
 app.post('/bfhl', (req, res, next) => {
